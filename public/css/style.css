@@ -1,0 +1,7 @@
+#home{
+    background-image: url('../image/header.jpg');
+}
+section{
+    height: 100vh;
+    position: relative;
+}
